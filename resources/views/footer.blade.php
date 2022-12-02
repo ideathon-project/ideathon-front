@@ -21,7 +21,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 footer-intro mb-40">
-                    <div class="logo"><a href="index.html"><img src="logo.png" alt="" width="180"></a></div>
+                    <div class="logo"><a href="/"><img src="logo.png" alt="" width="250px"></a></div>
                     <p>Ideathon Academy</p>
                     <ul class="d-flex social-icon style-none">
                         <li><a href="https://www.linkedin.com/company/ideathon-academy/"><i class="fab fa-linkedin-in"></i></a></li>
@@ -30,9 +30,10 @@
                 <div class="col-lg-2 col-sm-4 ms-auto mb-30">
                     <h5 class="footer-title">Linkler</h5>
                     <ul class="footer-nav-link style-none">
-                        <li><a href="index.html">Anasayfa</a></li>
-                        <li><a href="about-us1.html">Hakkımızda</a></li>
-                        <li><a href="blog-V4.html">Blog</a></li>
+                        <li><a href="/">Anasayfa</a></li>
+                        <li><a href="/hakkimizda">Hakkımızda</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="/iletisim">İletişim</a></li>
                     </ul>
                 </div>
                 <!--<div class="col-lg-3 col-sm-4 mb-30">
@@ -65,8 +66,6 @@
         </div>
     </div>
 </div>
-
-
 <button class="scroll-top">
     <i class="bi bi-arrow-up-short"></i>
 </button>

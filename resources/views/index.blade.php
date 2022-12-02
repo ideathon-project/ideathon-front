@@ -1,9 +1,5 @@
 @include("header")
-    <!--
-    =====================================================
-        Blog Section Three
-    =====================================================
-    -->
+
 <div class="hero-banner-five">
     <div class="container">
         <div class="row">
@@ -25,10 +21,6 @@
     </div>
     <div class="shapes oval-one"></div>
 </div>
-
-
-
-
 
 <div class="fancy-feature-seventeen position-relative mt-160 xl-mt-50">
     <div class="container">
@@ -73,9 +65,6 @@
     <div class="shapes shape-one"></div>
 </div>
 
-
-
-
 <div class="fancy-feature-eighteen position-relative pt-200 pb-225 lg-pt-130 md-pt-100 xl-pb-150 lg-pb-100">
     <div class="container">
         <div class="row">
@@ -111,16 +100,13 @@
     <div class="shapes oval-three"></div>
 </div>
 
-
-
-
 <div class="fancy-feature-nineteen position-relative pt-130 lg-pt-80">
     <div class="container">
         <div class="row">
             <div class="col-xxl-5 col-lg-6 col-md-7">
                 <div class="block-style-thirteen" data-aos="fade-right">
                     <div class="title-style-three pb-15">
-                        <!--<div class="sc-title">PROJE AŞAMALARI</div>-->
+                        <div class="sc-title">PROJE AŞAMALARI</div>
                         <h2 class="main-title">Proje <span>aşamaları</span> </h2>
                     </div>
                     <ul class="style-none list-item">
@@ -144,6 +130,7 @@
             </div>
         </div>
     </div>
+
     <div class="illustration-holder" data-aos="fade-left">
         <img src="images/assets/ils_15.svg" alt="" class="w-100 main-illustration">
         <img src="images/assets/ils_15_1.svg" alt="" class="shapes shape-one">
@@ -158,11 +145,7 @@
     <div class="shapes oval-two"></div>
     <img src="images/shape/shape_35.svg" alt="" class="shapes bg-shape">
 </div>
-
-
-
-
-
+<br>
 <div class="counter-section-one mt-140 lg-mt-100">
     <div class="container">
         <div class="inner-container bg-color">
@@ -190,70 +173,6 @@
     </div>
 </div>
 
-
-
-
-<!--
-<div class="feedback-section-five pt-130 lg-pt-100 pb-95 lg-pb-40">
-    <div class="container">
-        <div class="title-style-three text-center" data-aos="fade-up">
-            <div class="sc-title">Testimonials</div>
-            <h2 class="main-title">Words from <span>Client</span></h2>
-        </div>
-        <div class="feedback_slider_four pt-70 lg-pt-50" data-aos="fade-up">
-            <div class="item">
-                <div class="row">
-                    <div class="col-xxl-9 col-xl-10 col-lg-8 m-auto">
-                        <div class="feedback-block-four mb-80 ms-xxl-4 me-xxl-4">
-                            <img src="images/icon/icon_34.svg" alt="" class="m-auto">
-                            <p>Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.</p>
-                            <div class="cp-info">
-                                <h6>Rashed kabir</h6>
-                                <span>Designer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="row">
-                    <div class="col-xxl-9 col-xl-10 col-lg-8 m-auto">
-                        <div class="feedback-block-four mb-80 ms-xxl-4 me-xxl-4">
-                            <img src="images/icon/icon_34.svg" alt="" class="m-auto">
-                            <p>Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.</p>
-                            <div class="cp-info">
-                                <h6>Zubayer Hasan</h6>
-                                <span>Front End developer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="row">
-                    <div class="col-xxl-9 col-xl-10 col-lg-8 m-auto">
-                        <div class="feedback-block-four mb-80 ms-xxl-4 me-xxl-4">
-                            <img src="images/icon/icon_34.svg" alt="" class="m-auto">
-                            <p>Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.</p>
-                            <div class="cp-info">
-                                <h6>Mahfuz Riad</h6>
-                                <span>Designer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <img src="images/media/img_08.jpg" alt="" class="shapes avatar-one" width="45" height="45" style="outline-width: 6px;">
-    <img src="images/media/img_09.jpg" alt="" class="shapes avatar-two" width="85" height="85" style="outline-width: 10px;">
-    <img src="images/media/img_10.jpg" alt="" class="shapes avatar-three" width="85" height="85" style="outline-width: 10px;">
-    <img src="images/media/img_11.jpg" alt="" class="shapes avatar-four" width="50" height="50" style="outline-width: 5px;">
-</div>-->
-
-
-
-<!
 <div class="fancy-feature-twenty position-relative mt-160 pb-100 lg-mt-100 lg-pb-70">
     <div class="container">
         <div class="row">
@@ -278,55 +197,55 @@
                         </div>
                         <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionOne">
                             <div class="accordion-body">
-                                <p>Bizimle iletişime geçtiğinizde, sizlere gerekli desteği sağlayacağız.</p>
+                                <p>Bizimle mail yoluyla iletişime geçtiğinizde, sizlere gerekli desteği sağlayacağız.</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <div class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Yahu başvurulmuyor mu buraya?
+                                Ideathon Academy bana neler katabilir?
                             </button>
                         </div>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionOne">
                             <div class="accordion-body">
-                                <p>They not only understand what I say but read between the lines and also give me ideas of my own. AI technology is perfect for best business solutions. </p>
+                                <p>İlk günden itibaren Ideathon Academy ailesinin bir parçası olacak ve kariyeriniz boyunca başarıya ulaşmanız için destekleneceksiniz. Temel değerlerimizle şekillenen, fikirlerin gelişebildiği, yeteneklerin beslendiği ve başarıların tanındığı ve ödüllendirildiği bir kültür oluşturduk. Dijital geleceğinizi şekillendirecek heyecan verici kariyerler yaratmak için sizi bekliyoruz.  </p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <div class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Nasıl yaptınız bu işi yav?
+                                Girişimcilik eğitimleriniz hangi alana hitap ediyor?
                             </button>
                         </div>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionOne">
                             <div class="accordion-body">
-                                <p>They not only understand what I say but read between the lines and also give me ideas of my own. AI technology is perfect for best business solutions. </p>
+                                <p>Ideathon'da alan sınırımız yok. Geliştireceğiniz her proje ile başvuru yapıp kariyerinizi başlatabilirsiniz!</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <div class="accordion-header" id="headingFour">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                Yatırımcınız Neyfer KK mı?
+                                Ideathon Academy ailesinin projelere yaklaşımı nasıldır?
                             </button>
                         </div>
                         <div id="collapseFour" class="accordion-collapse collapse " aria-labelledby="headingFour" data-bs-parent="#accordionOne">
                             <div class="accordion-body">
-                                <p>They not only understand what I say but read between the lines and also give me ideas of my own. AI technology is perfect for best business solutions. </p>
+                                <p>Yenilikçi, tutarlı, çevik ve tutkulu insanlardan oluşan bir ekibiz. Her güne enerji ve şevkle yaklaşan, 'yapabilirim' tavrına sahip kişileriz. İşimizi hep beraber ileriye taşımak için ortaya çıkan her fırsatı değerlendiriyoruz. Çeşitliliği destekliyoruz. Ekip çalışması ve işbirliği konusunda başarılıyız.</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <div class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Ramazan Bakır olacak mıyım?
+                                Projelere mentör olarak katılabilir miyiz?
                             </button>
                         </div>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionOne">
                             <div class="accordion-body">
-                                <p>o7</p>
+                                <p>Destek isteyen projelere mentör desteği sağlıyoruz. Mentör olarak başvuru yaptığınızda alanınızdaki projelere katılıp, takıma destek olabilirsiniz.</p>
                             </div>
                         </div>
                     </div>
@@ -338,10 +257,6 @@
     <div class="shapes oval-one"></div>
 </div>
 
-
-
-
-<!
 <div class="blog-section-three position-relative pt-70 lg-pt-40">
     <div class="container">
         <div class="title-style-three text-center mb-50 lg-mb-20" data-aos="fade-up">
@@ -356,12 +271,12 @@
                     <div class="post-data">
                         <div class="post-tag"><a href="#">Robotik</a> - 15 minute read</div>
                         <a href="#" class="blog-title"><h5>Los Angeles merkezli Bionaut Labs, sinir sistemi (CNS) hastalıklarını ve bozukluklarını tedavi etmek için mikro ölçekli robot kullandı.</h5></a>
-                    </div> <!-- /.post-data -->
+                    </div>
                 </article>
             </div>
             <div class="col-lg-4 col-sm-6 d-flex" data-aos="fade-up" data-aos-delay="100">
                 <article class="blog-meta-one color-two tran3s mt-30">
-                    <figure class="post-img m0"><a href="#" class="w-100 d-block"><img src="images/blog/post.jpg" alt="" class="w-100 tran4s"></a></figure>
+                    <figure class="post-img m0"><a href="#" class="w-100 d-block"><img src="images/blog/post-twitter.jpg" alt="" class="w-100 tran4s"></a></figure>
                     <div class="post-data">
                         <div class="post-tag"><a href="#">Sosyal Medya</a> - 10 minute read</div>
                         <a href="#" class="blog-title"><h5>Twitter’a alternatif en güçlü isim; POST</h5></a>
@@ -370,41 +285,15 @@
             </div>
             <div class="col-lg-4 col-sm-6 d-flex" data-aos="fade-up" data-aos-delay="200">
                 <article class="blog-meta-one color-two tran3s mt-30">
-                    <figure class="post-img m0"><a href="#" class="w-100 d-block"><img src="images/blog/orara.jpg" alt="" class="w-100 tran4s"></a></figure>
+                    <figure class="post-img m0"><a href="#" class="w-100 d-block"><img src="images/blog/orora.jpg" alt="" class="w-100 tran4s"></a></figure>
                     <div class="post-data">
                         <div class="post-tag"><a href="#">Uzay</a> - 8 minute read</div>
-                        <a href="#" class="blog-title"><h5>The power product and the quotient rules.</h5></a>
+                        <a href="#" class="blog-title"><h5>İkinci termal kızılötesi kamerasını piyasaya sürmeye hazırlanan Münih merkezli OroraTech 15 milyon euro yatırım aldı. </h5></a>
                     </div>
                 </article>
             </div>
         </div>
     </div>
 </div>
-
-
-
-
-
-
-<div class="partner-section-two mt-30 mb-130 lg-mb-80">
-    <div class="container">
-        <div class="title-style-three text-center mb-50 lg-mb-20 aos-init aos-animate" data-aos="fade-up">
-
-            <h2 class="main-title"><span>SPONSORLARIMIZ</span></h2>
-        </div>
-        <div class="row">
-            <div class="col-12 m-auto">
-                <ul class="style-none text-center mt-40 lg-mt-10">
-                    <li class="partner-logo-block-one d-inline-block" data-aos="fade-up"><a href="#" class="d-flex align-items-center justify-content-center"><img src="images/logo/Plogo-13.png" alt=""></a></li>
-                    <li class="partner-logo-block-one d-inline-block" data-aos="fade-up" data-aos-delay="100"><a href="#" class="d-flex align-items-center justify-content-center"><img src="images/logo/Plogo-12.png" alt=""></a></li>
-                    <li class="partner-logo-block-one d-inline-block" data-aos="fade-up" data-aos-delay="200"><a href="#" class="d-flex align-items-center justify-content-center"><img src="images/logo/Plogo-9.png" alt=""></a></li>
-                    <li class="partner-logo-block-one d-inline-block" data-aos="fade-up" data-aos-delay="300"><a href="#" class="d-flex align-items-center justify-content-center"><img src="images/logo/Plogo-7.png" alt=""></a></li>
-                    <li class="partner-logo-block-one d-inline-block" data-aos="fade-up" data-aos-delay="400"><a href="#" class="d-flex align-items-center justify-content-center"><img src="images/logo/Plogo-8.png" alt=""></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 @include("footer")

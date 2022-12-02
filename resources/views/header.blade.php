@@ -86,32 +86,27 @@
     <header class="theme-main-menu sticky-menu theme-menu-four">
         <!--<div class="inner-content">
             <div class="d-flex align-items-center">
-                <div class="logo order-lg-0"><a href="index.html" class="d-block"><img src="logo.png" alt="" width="170"></a></div>
+
                 <div class="right-widget d-flex align-items-center ms-auto order-lg-3">
                     <div class="call-button d-none d-xl-block me-5">Call us <a href="#">(+880) 321 782 110</a></div>
                     <button class="menu-search-btn tran3s" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop"><i class="bi bi-search"></i></button>
                     <a href="contact-us.html" class="send-msg-btn tran3s d-none d-lg-block">Send us Message</a>
                 </div>-->
-
-        <nav class="navbar navbar-expand-lg order-lg-2">
+        <div class="inner-content">
+            <div class="d-flex align-items-center">
+                <div class="logo order-lg-0"><a href="#" class="d-block"><img src="logo.png" alt="" width="250px"></a></div>
+                <nav class="navbar navbar-expand-lg order-lg-2">
             <button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="d-block d-lg-none"><div class="logo"><a href="index.html"><img src="logo.png" alt="" width="130"></a></div></li>
-                    <li class="nav-item active dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Ana Sayfa</a>
-                        <!--<ul class="dropdown-menu">
-                            <li><a href="index.html" class="dropdown-item"><span>User Analysis</span></a></li>
-                            <li><a href="index-2.html" class="dropdown-item"><span>Artificial Intelligence</span></a></li>
-                            <li><a href="index-3.html" class="dropdown-item"><span>Data Science</span></a></li>
-                            <li><a href="index-4.html" class="dropdown-item"><span>Chatboot</span></a></li>
-                            <li><a href="index-5.html" class="dropdown-item"><span>Machine Learning</span></a></li>
-                        </ul>-->
+                    <li class="d-block d-lg-none"><div class="logo"><a href="/"><img src="https://beta.ideathon.academy/logo.png" alt="" width="130"></a></div></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" role="button">Ana Sayfa</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="about-us1.html" role="button" data-bs-auto-close="outside" aria-expanded="false">Hakkımızda</a>
+                        <a class="nav-link dropdown-toggle" href="/hakkimizda" role="button" data-bs-auto-close="outside" aria-expanded="false">Hakkımızda</a>
                         <!--<ul class="dropdown-menu">
                             <li class="dropdown-submenu dropdown">
                                 <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" href="about-us1.html"><span>Hakkımızda</span></a>
@@ -158,7 +153,7 @@
                             </ul>
                         </li>-->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="blog-V4.html" role="button"  data-bs-auto-close="outside" aria-expanded="false">Blog</a>
+                        <a class="nav-link dropdown-toggle" href="#" role="button"  data-bs-auto-close="outside" aria-expanded="false">Blog</a>
                         <!--<ul class="dropdown-menu">
                             <li><a href="blog-V1.html" class="dropdown-item"><span>Grid Layout</span></a></li>
                             <li><a href="blog-V2.html" class="dropdown-item"><span>Grid With Sidebar</span></a></li>
@@ -168,7 +163,7 @@
                         </ul>-->
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact-us.html" role="button">İletişim</a>
+                        <a class="nav-link" href="/iletisim" role="button">İletişim</a>
                     </li>
                 </ul>
                 <!-- Mobile Content -->
@@ -180,7 +175,7 @@
                 </div>--> <!-- /.mobile-content -->
             </div>
         </nav>
-
+            </div></div>
 </header>
 
-
+</div>

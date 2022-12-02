@@ -17,15 +17,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/ideathon', function () {
-    return view('index');
+Route::get('/hakkimizda', function () {
+    return view('hakkimizda');
 });
 
-Route::get('/header', function () {
-    return view('header');
+Route::get('/iletisim',function (){
+    return view('iletisim');
 });
-
-Route::get('/master', function () {
-    return view('Master');
-});
-
