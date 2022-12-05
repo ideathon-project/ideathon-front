@@ -35,3 +35,7 @@ Route::get('/blog',function (){
 Route::get('/blog-detail',function (){
     return view('blog-detail');
 });
+
+Route::get('/404.php',function (){
+    return view('404');
+});
