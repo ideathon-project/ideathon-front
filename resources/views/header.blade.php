@@ -156,7 +156,7 @@
                             </ul>
                         </li>-->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button"  data-bs-auto-close="outside" aria-expanded="false">Blog</a>
+                        <a class="nav-link dropdown-toggle" href="/blog" role="button"  data-bs-auto-close="outside" aria-expanded="false">Blog</a>
                         <!--<ul class="dropdown-menu">
                             <li><a href="blog-V1.html" class="dropdown-item"><span>Grid Layout</span></a></li>
                             <li><a href="blog-V2.html" class="dropdown-item"><span>Grid With Sidebar</span></a></li>

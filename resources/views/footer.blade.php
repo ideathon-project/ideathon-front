@@ -32,7 +32,7 @@
                     <ul class="footer-nav-link style-none">
                         <li><a href="/">Anasayfa</a></li>
                         <li><a href="/hakkimizda">Hakkımızda</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="/blog">Blog</a></li>
                         <li><a href="/iletisim">İletişim</a></li>
                     </ul>
                 </div>

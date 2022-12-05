@@ -80,7 +80,7 @@
                         <li>Page Load (time, size, number of requests).</li>
                         <li>Advance Data analysis operation.</li>
                     </ul>-->
-                    <a href="contact-us.html" class="btn-eight mt-50 lg-mt-30">Daha fazlası için</a>
+                    <a href="/iletisim" class="btn-eight mt-50 lg-mt-30">Daha fazlası için</a>
                 </div>
             </div>
         </div>

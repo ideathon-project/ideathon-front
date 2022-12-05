@@ -27,3 +27,11 @@ Route::get('/iletisim',function (){
     return view('iletisim');
 });
 
+Route::get('/blog',function (){
+    return view('blog');
+});
+
+
+Route::get('/blog-detail',function (){
+    return view('blog-detail');
+});
