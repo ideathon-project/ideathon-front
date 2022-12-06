@@ -183,7 +183,7 @@
                         <h2 class="main-title"><span>SSS</span></h2>
                     </div> <!-- /.title-style-three -->
                     <p class="pt-20 pb-15">Cevabınızı burada bulamıyor musunuz? Herhangi bir sorunuz için bize bir mesaj göndermeniz yeterli.</p>
-                    <a href="contact-us.html" class="btn-eight ripple-btn">Bize ulaş</a>
+                    <a href="/iletisim" class="btn-eight ripple-btn">Bize ulaş</a>
                 </div>
             </div>
 
