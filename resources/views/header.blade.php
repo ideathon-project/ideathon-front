@@ -20,7 +20,7 @@
     <meta name="msapplication-navbutton-color" content="#913BFF">
     <meta name="apple-mobile-web-app-status-bar-style" content="#913BFF">
 
-    <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="images/fav-icon/rockett.png">
     <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/responsive.css" media="all">
 
@@ -97,7 +97,7 @@
                 </div>-->
         <div class="inner-content">
             <div class="d-flex align-items-center">
-                <div class="logo order-lg-0"><a href="#" class="d-block"><img src="logo.png" alt="" width="250px"></a></div>
+                <div class="logo order-lg-0"><a href="/" class="d-block"><img src="logo.png" alt="" width="250px"></a></div>
                 <nav class="navbar navbar-expand-lg order-lg-2">
             <button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>

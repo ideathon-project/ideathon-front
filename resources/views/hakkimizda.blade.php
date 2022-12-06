@@ -32,7 +32,7 @@
                         <li>Birlikte beyin fırtınası yaparak güzel ve özel projelere imza atabiliriz.</li>
                         <li>Projelerinizle geleceğin girişimci adayı olma fırsatını yakalayabilirsiniz.</li>
                     </ul>
-                    <a href="contact-us.html" class="btn-one mt-30">Bize ulaş</a>
+                    <a href="/iletisim" class="btn-one mt-30">Bize ulaş</a>
                 </div> <!-- /.block-style-two -->
             </div>
         </div>

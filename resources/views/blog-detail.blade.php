@@ -9,7 +9,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <article class="blog-meta-three tran3s mt-45">
-                            <figure class="post-img m0"><img src="images/blog/blog_img_20.jpg" alt="" class="w-100 tran4s"></figure>
+                            <figure class="post-img m0"><img src="https://api.hackathonturkiye.com/media/hosting/images/1_WBhoIYUpYuv4f3xrj2Palw.png" alt="" class="w-100 tran4s"></figure>
                             <div class="post-data">
                                 <div class="post-tag"><a href="#">Kategori Konusu</a> Ideathon Tarafından olusturuldu</div>
                                 <div class="blog-title"><h4>BLOG ADI</h4></div>
